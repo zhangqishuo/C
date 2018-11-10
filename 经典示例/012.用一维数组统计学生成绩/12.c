@@ -1,5 +1,5 @@
 #include <stdio.h>
-void main()
+int main()
 {
 	char SelectKey,CreditMoney,DebitMoney;
 	while(1)
@@ -119,4 +119,5 @@ void main()
 				return;
 		}
 	}
+	return 0;
 }
