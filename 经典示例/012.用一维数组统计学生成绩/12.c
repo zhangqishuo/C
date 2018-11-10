@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
+	int test = 0;
 	char SelectKey,CreditMoney,DebitMoney;
 	while(1)
 	{
